@@ -125,9 +125,9 @@ You can easily get started by modifying _config.yml
 
 ```
 # Site settings
-title: '廖柯宇的独立博客' # 你的博客网站标题
+title: '敖劲松的独立博客' # 你的博客网站标题
 description: '很高兴能在这里与你分享我对技术和生活的思考。' # 站点描述
-keyword: '廖柯宇, 廖柯宇的独立博客, 前端, 设计' # 网站关键词
+keyword: '敖劲松, 敖劲松的独立博客, 前端, 设计' # 网站关键词
 url: 'http://liaokeyu.com' # 站点url 
 baseurl: ''
  
@@ -333,7 +333,7 @@ theme-color: 'default' # pink or default
 ```
 ---
 layout: default
-home-title: Steven的博客
+home-title: qqaj的博客
 description: 开发者，创造者
 header-img: assets/img/banner.jpg
 ---
